@@ -1,5 +1,5 @@
 # hello-world
-Lets follow the tradition :-P
-
-Baaahh! I dunno what got into me when i was choosing my username. I think it was sheep wool.
-Anyways now that this tradition is complete lets go and exploreee!!
+Lets follow the tradition and create our first repo
+I really want to make new discoveries and look at the world from a secluded yet refreshing perspective.
+I believe that computer engineering will help humanity in countless ways and i wish to explore as many as possible.
+How about you? Care to share some thoughts? :)
